@@ -1,4 +1,4 @@
-	1.	Chip Modelling (O1)
+1.	Chip Modelling (O1)
 	•	The first step is defining the system’s specifications.
 	•	This is often done with a C model, which helps in checking the behavior early using testbenches written in C.
 	2.	RTL Architecture (O2)
